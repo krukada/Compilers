@@ -1,0 +1,3 @@
+/Users/adelinazagitova/CLionProjects/Flex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adelinazagitova/CLionProjects/Flex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adelinazagitova/CLionProjects/Flex/cmake-build-debug/CMakeFiles/Flex.dir

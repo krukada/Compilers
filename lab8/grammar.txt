@@ -1,0 +1,7 @@
+Lines = Line {Line}
+Line = "[" Expr "]"
+Expr = Term_1 Right {Right}
+Right = ":" {Var}
+Var = "[" Alt "]" ["*"] | Term
+Alt = {Var} {Right}
+Term = (Term_1 | Term_2) ["*"]
